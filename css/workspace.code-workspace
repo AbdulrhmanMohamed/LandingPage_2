@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:\\Users\\Abdulrhman\\Downloads\\fontawesome-free-5.15.4-web\\webfonts"
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5501,
+        "liveServer.settings.multiRootWorkspaceName": "Lab1"
+    }
+}
